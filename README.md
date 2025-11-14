@@ -1,2 +1,2 @@
 # DF_files
-Testing files for PoC
+Testing files for PoC. Strictly for School assignment.
